@@ -63,8 +63,8 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
-Developed by: ADHARSH VIDYARDH U
-RegisterNumber:  212224230007
+Developed by: Aaron alex p
+RegisterNumber:  212224230002
 
 
 ## Output:
